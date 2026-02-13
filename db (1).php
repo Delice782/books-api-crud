@@ -4,7 +4,7 @@
 $host = 'localhost';
 $dbname = 'mobileapps_2026B_delice_ishimwe';
 $username = 'delice.ishimwe';
-$password = 'YOUR_PASSWORD_HERE';  // Replace with your actual MySQL password
+$password = 'MY_PASSWORD_HERE';  
 
 try {
     $pdo = new PDO("mysql:host=$host;dbname=$dbname", $username, $password);

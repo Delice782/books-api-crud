@@ -1,5 +1,4 @@
 -- Database setup for Books API
--- Database: mobileapps_2026B_delice_ishimwe
 
 -- Create books table
 CREATE TABLE IF NOT EXISTS books (

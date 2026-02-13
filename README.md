@@ -6,6 +6,7 @@ A simple CRUD API for managing books using PHP and MySQL.
 ```
 books_api/
 ├── db.php
+├── database.sql
 ├── actions/
     ├── read_all.php
     ├── read_one.php

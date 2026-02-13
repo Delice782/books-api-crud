@@ -2,9 +2,6 @@
 
 A simple CRUD API for managing books using PHP and MySQL.
 
-**Student**: Delice Ishimwe  
-**Date**: February 2026
-
 ## Project Structure
 ```
 books_api/
